@@ -1,7 +1,7 @@
 # mm7-portraits
 Might &amp; Magic VII portraits repainted.
 
-![example](example.png)
+![example](example.jpg)
 
 ## Status
 
@@ -20,4 +20,4 @@ That change is viewed negatively by some. The project aims at repainting the por
 
 ## Overview
 
-![overview](overview.png)
+![overview](overview.jpg)
