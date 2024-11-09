@@ -5,7 +5,7 @@ Might &amp; Magic VII portraits repainted.
 
 ## Status
 
-NPC: 133/584
+NPC: 159/584
 
 ## Goal
 
