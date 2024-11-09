@@ -5,7 +5,7 @@ Might &amp; Magic VII portraits repainted.
 
 Goal:
 
-During development of Might and Magic VII the developers switched to rendering portraits instead of using stock images, unlike in the previous installment.
+During development of Might and Magic VII the team switched to rendering portraits instead of using stock images, unlike in the previous installment.
 That change is viewed negatively by some. The project aims at repainting the portraits to make them look more like real-life photos.
 
 How is it done:
