@@ -1,6 +1,8 @@
 # mm7-portraits
 Might &amp; Magic VII portraits repainted.
 
+![example](example.png)
+
 Goal:
 
 During development of Might and Magic VII the developers switched to rendering portraits instead of using stock images, like in the previous installment.
