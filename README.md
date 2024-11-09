@@ -16,7 +16,7 @@ That change is viewed negatively by some. The project aims at repainting the por
 
 1. The original portrait is upscaled up to 512px.
 2. Face restoration algorithm (GFPGAN) is used to recover facial features.
-3. Stable diffusion model in img2img mode is used to repaint the image.
+3. Stable diffusion [model](https://civitai.com/models/372465/pony-realism) in img2img mode is used to repaint the image.
 
 ## Overview
 
