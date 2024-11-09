@@ -3,6 +3,10 @@ Might &amp; Magic VII portraits repainted.
 
 ![example](example.png)
 
+Status:
+
+NPC: 133/584
+
 Goal:
 
 During development of Might and Magic VII the team switched to rendering portraits instead of using stock images, unlike in the previous installment.
