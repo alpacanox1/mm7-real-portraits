@@ -18,4 +18,6 @@ How is it done:
 2. Face restoration algorithm (GFPGAN) is used to recover facial features.
 3. Stable diffusion model in img2img mode is used to repaint the image.
 
+Overview:
+
 ![overview](overview.png)
