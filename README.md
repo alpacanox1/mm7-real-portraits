@@ -15,7 +15,7 @@ That change is viewed negatively by some. The project aims at repainting the por
 ## How is it done
 
 1. The original portrait is upscaled up to 512px.
-2. Face restoration algorithm ([GFPGAN](https://github.com/TencentARC/GFPGAN) is used to recover facial features.
+2. Face restoration algorithm ([GFPGAN](https://github.com/TencentARC/GFPGAN)) is used to recover facial features.
 3. Stable diffusion [model](https://civitai.com/models/372465/pony-realism) in img2img mode is used to repaint the image.
 
 ## Overview
