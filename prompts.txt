@@ -1055,4 +1055,129 @@ score_9, score_8_up, score_7_up, female, portrait, front view, looking at viewer
 
 score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
 
+233
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking away, fat, chubby, black dress, brown eyes, short brown hair, brown hat, amused, open mouth, medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+234
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking at viewer, fat, chubby, brown dress, brown eyes, long brown hair, countryside background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+235
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking away, fat, chubby, blue dress, green eyes, long blonde hair, medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+236
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking at viewer, fat, chubby, green dress, green eyes, brown hat, corn field background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+237
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking away, sad, fat, chubby, brown dress, green eyes, short brown hair, hair bangs, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+238
+
+score_9, score_8_up, score_7_up, female, portrait, three quarter view, looking away, fat, chubby, white dress, green eyes, long black hair, open mouth, hair bangs, countryside background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+239
+
+score_9, score_8_up, score_7_up, female, portrait, three quarter view, looking at viewer, chubby, fur hood, blue eyes, short black hair, hair bangs, open mouth, hair bangs, mountains background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+240
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking at viewer, chubby, brown hood, brown eyes, short blonde hair, hair bangs, open mouth, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+241
+
+score_9, score_8_up, score_7_up, female, portrait, three quarter view,  looking at viewer, chubby,  fat, raising an eyebrow, brown eyes, short blonde hair, hair bangs, open mouth, red dress, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+242
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking at viewer, chubby,  fat, brown eyes, short black hair, blue dress, medieval temple background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+243
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking away, chubby,  fat, blue eyes, long black hair, countryside background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+244
+
+score_9, score_8_up, score_7_up, female, portrait, front view, asian, looking at viewer, chubby,  fat, brown eyes, short black hair, hair bangs, open mouth, smiling, blue dress, medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+245
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking at viewer, chubby,  fat, brown eyes, long black hair, hair bangs, open mouth, black dress, medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+246
+
+score_9, score_8_up, score_7_up, female, portrait, front view, yellow skin, bad skin, white eyes, looking away, chubby,  fat, long black hair, castle background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+247
+
+score_9, score_8_up, score_7_up, female, portrait, three quarter view, (old:1.5), brown eyes, looking at viewer, chubby,  fat, long black hair, castle background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+248
+
+score_9, score_8_up, score_7_up, female, portrait, front view, (old:1.5), brown eyes, looking at viewer, chubby,  sad, fat, long brown hair, swamp background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+249
+
+score_9, score_8_up, score_7_up, female, portrait, front view, (old:1.5), african-american, brown eyes, red lipstick, looking at viewer, chubby,  smiling, open mouth, blue dress, fat, long brown hair, medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+250
+
+score_9, score_8_up, score_7_up, female, portrait, three quarter view, (old:1.5), african-american, brown eyes, red lipstick, looking at viewer, chubby,  open mouth, blue dress, fat, long black hair, medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+300
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), green eyes, thick brown eyebrows, relaxed, long brown beard, looking away, orange shirt, long brown hair, castle background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+301
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), blue eyes, thick gray eyebrows, relaxed, long gray beard, looking away, red robe, open mouth, long gray hair, dark room background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, depth of field, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+302
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), blue eyes, thick gray eyebrows, relaxed, long gray beard, looking away, blue robe, open mouth, long gray hair, castle background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
 
