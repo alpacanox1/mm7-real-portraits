@@ -1181,3 +1181,128 @@ score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5)
 
 score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
 
+303
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), blue eyes, thick black eyebrows, relaxed, (long black beard:1.5), looking away, blue robe, open mouth, long black hair, snow mountains background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+304
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), brown eyes, thick black eyebrows, relaxed, long black beard, looking away, green robe, open mouth, long black hair, medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+305
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), green eyes, thick frown eyebrows, relaxed, (long brown beard,:1.5) looking away, blue robe, open mouth, long brown hair, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+306
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), green eyes, bald, thick gray eyebrows, relaxed, (long gray beard,:1.5) looking away, red robe, open mouth, long brown hair, mountains background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+307
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), brown eyes, bald, thick gray eyebrows, relaxed, (long gray beard,:1.5) looking away, blue robe, long gray hair, medieval church background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+308
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), brown eyes, bald, thick black eyebrows, relaxed, (long gray beard,:1.5) looking away, blue robe, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+309
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), brown eyes, bald, thick black eyebrows, relaxed, (extremely long black beard,:1.5) looking away, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+310
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), blue eyes, bald, thick black eyebrows, relaxed, (extremely long black beard,:1.5) looking away, red robe, smug, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+311
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), blue eyes, balding, long brown hair, thick black eyebrows, wide eyed, smiling, unshaven, brown moustache, looking away, red robe, purple robe, medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+312
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), brown eyes, bald, thick black eyebrows, relaxed, (extremely long black beard,:1.5) looking away, green robe, medieval church background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+313
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), brown eyes, bald, thick black eyebrows, relaxed, (extremely long black beard,:1.5), open mouth, looking away, red robe, medieval church background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+314
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), brown eyes, bald, thick gray eyebrows, relaxed, (extremely long gray beard,:1.5), open mouth, green robe, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+315
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), brown eyes, bald, thick gray eyebrows, relaxed, (extremely long gray beard,:1.5), open mouth, blue robe, medieval church background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+316
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), brown eyes, bald, looking away, thick black eyebrows, relaxed, (extremely long black beard:1.5), cyan robe, snow mountains background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+317
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), brown eyes, bald, looking away, thick black eyebrows, relaxed, (extremely long black beard:1.5), purple robe, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+318
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), green eyes, smiling, bald, looking away, thick gray eyebrows, relaxed, (extremely long gray beard:1.5), blue robe, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+320
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), green eyes, bald, looking away, thick brown eyebrows, (extremely long brown beard:1.5), red robe, medieval church background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+321
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), blue eyes, bald, looking at viewer, thick gray eyebrows, (extremely long gray beard:1.5), blue robe, castle background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+322
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), brown eyes, bald, open mouth, looking at viewer, eye closed, thick brown eyebrows, (extremely long brown beard:1.5), green robe, medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+323
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), brown eyes, smug, bald, open mouth, looking  away, thick black eyebrows, (extremely long gray beard:1.5), medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+324
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), brown eyes, bald, looking  at viewer, thick black eyebrows, (extremely long gray beard:1.5), forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
