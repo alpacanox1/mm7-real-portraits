@@ -1306,3 +1306,286 @@ score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quali
 score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), brown eyes, bald, looking  at viewer, thick black eyebrows, (extremely long gray beard:1.5), forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
 
 score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+325
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), brown eyes, looking  sideways, thick brown eyebrows, (large brown beard:1.5), (long beard:1.5), chain mail, shiny metal, iron helmet with golden trim, lava background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+326
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), brown eyes, looking  at viewer, relaxed, wide eyed, thick black eyebrows, (large black beard:1.5), (long beard:1.5), chain mail, (iron helmet:1.5), evening medieval house background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+327
+
+score_9, score_8_up, score_7_up, male, portrait, front view, (dwarf:1.5), (fat:1.5), brown eyes, determined, focused, looking  forward, iron cap with horns, golden skull mask, thick black eyebrows, (large black beard:1.5), (long beard:1.5), chain mail, (iron helmet:1.5), lava background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+328
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), brown eyes, determined, focused, looking  forward, open mouth, (iron helmet:1.5), thick black eyebrows, (large black beard:1.5), (long beard:1.5), chain mail, evening medieval church background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+329
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), green eyes, smiling, looking  away, open mouth, thick brown eyebrows, (large brown beard:1.5), (long beard:1.5), chain mail, evening castle background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+330
+
+score_9, score_8_up, score_7_up, male, portrait, three quarter view, (dwarf:1.5), (fat:1.5), green eyes, looking  away, large brown beard, iron cap with horns, iron skull mask with horns, chain mail, lava background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+360
+
+score_9, score_8_up, score_7_up, female, portrait, front view, dwarf, blue eyes, looking  away, long brown hair, open mouth, chubby, raised eyebrows, smiling, braids, thin brown eyebrows, makeup, green dress, medieval church background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+361
+
+score_9, score_8_up, score_7_up, female, portrait, front view, dwarf, brown eyes, looking  away, long brown hair, open mouth, chubby, raised eyebrows, worried, thin brown eyebrows, makeup, green dress, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+362
+
+score_9, score_8_up, score_7_up, female, portrait, three quarter view, dwarf, brown eyes, looking at viewer, long  gray hair, (old:1.5), open mouth, chubby, raised eyebrows, squint, suspicious, thin gray eyebrows, makeup, orange dress, countryside background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+363
+
+score_9, score_8_up, score_7_up, female, portrait, front view, dwarf, green eyes, looking away, long  black hair, open mouth, smug, chubby, thin black eyebrows, beige hat, makeup, orange dress, mountains background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+365
+
+score_9, score_8_up, score_7_up, female, portrait, three quarter view, dwarf, green eyes, looking away, long  black hair, open mouth, smiling, chubby, thin black eyebrows, makeup, brown dress, evening mountains background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+367
+
+score_9, score_8_up, score_7_up, female, portrait, three quarter view, dwarf, blue eyes, looking at viewer, long red hair, pony tail, hair bangs, open mouth, smiling, large skull, thin eyebrows, makeup, red dress, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+368
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking away, dwarf, long black hair, braids, brown eyes, chubby, smiling, open mouth, red lipstick, white dress, wide jaw, large skull, round face, thick neck, thin eyebrows, makeup, black background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+369
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking at viewer, dwarf, long brown hair, leather headband, braids, blue eyes, chubby, smiling, open mouth, red lipstick, white dress, wide jaw, large skull, round face, thick neck, thin eyebrows, makeup, black background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+380
+
+score_9, score_8_up, score_7_up, female, portrait, side view, dwarf, long brown hair, braids, pony tail, brown eyes, chubby, smiling, open mouth, red lipstick, red dress, wide jaw, large skull, round face, thick neck, thin eyebrows, makeup, black background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+381
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking away, dwarf, long blonde hair, braids, pony tail, blue eyes, chubby, smiling, open mouth, red lipstick, red dress, wide jaw, large skull, round face, thick neck, thin eyebrows, makeup, black background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+382
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking away, covering with hand, dwarf, long gray hair, brown eyes, chubby, raising eyebrow, black dress, wide jaw, large skull, round face, thick neck, thin eyebrows, makeup, castle background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+383
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking at viewer, dwarf, long blonde hair, braids, pony tail, open mouth, leather headband, blue eyes, chubby, (damaged skin:1.5), (sad:1.5), green dress, wide jaw, large skull, round face, thick neck, thin eyebrows, makeup, black background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+384
+
+score_9, score_8_up, score_7_up, female, portrait, front view, dwarf, long brown hair, braids, hair bangs, smiling, brown eyes, chubby, white dress, wide jaw, large skull, round face, thick neck, thin eyebrows, makeup, black background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+385
+
+score_9, score_8_up, score_7_up, female, portrait, three quarter view, looking at viewer, dwarf, long red hair, leather headband, braids, smiling, open mouth, blue eyes, chubby, blue dress, wide jaw, large skull, round face, thick neck, thin eyebrows, makeup, black background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+386
+
+score_9, score_8_up, score_7_up, female, portrait, front view, (looking sideways:1.5), smug, dwarf, long red hair, hair bangs, smiling, open mouth, blue eyes, chubby, violet dress, wide jaw, large skull, round face, thick neck, thin eyebrows, makeup, black background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+387
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking at viewer, dwarf, long blonde hair, leather headband, open mouth, red lipstick, brown eyes, chubby, white dress, wide jaw, large skull, round face, thick neck, thin eyebrows, makeup, black background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+388
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking at viewer,  (old:1.5), witch, long brown hair, open mouth, cyan eyes, medieval temple background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+389
+
+score_9, score_8_up, score_7_up, female, portrait, three quarter view, looking at viewer, (old:1.5), witch, long gray hair, open mouth, red lipstick, cyan eyes, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+390
+
+score_9, score_8_up, score_7_up, female, portrait, front view, looking down, (old:1.5), witch, long blonde hair, open mouth, red lipstick, cyan eyes, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, earrings, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+401
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), three quarter view, looking away, short blonde hair, purple eyes, clean shaven, thin eyebrows, open mouth, pointy ears, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+402
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, looking at viewer, long gray hair, balding, brown eyes, (clean shaven:1.5), scared, thin frowning eyebrows, open mouth, pointy ears, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, cleft chin, facial hair, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+403
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, looking away, long brown hair, balding, green cape, blue eyes, (clean shaven:1.5), (sad:1.5), open mouth, pointy ears, pointy nose, small mouth, small chin, mountains background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (eyebrows:1.5), cleft chin, (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+404
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, looking away, bald, (thin long eyebrows:1.5), green jacket, smooth skin, black thin eyebrows, blue eyes, open mouth, pointy ears, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+405
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, looking away, green jacket, black thin eyebrows, green eyes, hair bangs, pointy ears, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+406
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, black jacket, black thin eyebrows, green eyes, short brown hair, hair bangs, pointy ears, pointy nose, open mouth, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+407
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, green jacket, black thin eyebrows, unshaven, blue eyes, short brown hair, hair bangs, pointy ears, pointy nose, open mouth, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+408
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), three quarter view, looking at viewer, green jacket, black thin eyebrows, unshaven, blue eyes, short brown hair, hair bangs, pointy ears, pointy nose, open mouth, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+409
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, black jacket, black thin eyebrows, circle beard, blue eyes, short red hair, hair bangs, pointy ears, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+410
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), three quarter view, looking away, black jacket, blue eyes, open mouth, short red hair, hair bangs, black thin raised eyebrows, pointy ears, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+411
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), three quarter view, black jacket, blue eyes, bald, smiling, open mouth, black hat, black thin eyebrows, raised eyebrows, pointy ears, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+412
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, blue eyes, looking away, bald, smiling, open mouth, red hat, black thin eyebrows, raised eyebrows, pointy ears, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+413
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, blue eyes, looking away, bald, golden helmet, black thin eyebrows, pointy ears, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+414
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), three quarter view, brown eyes, looking at viewer, bald, iron helmet, black thin eyebrows, pointy ears, pointy nose, small mouth, small chin, mountains background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+415
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), three quarter view, brown eyes, looking at viewer, bald, iron full helmet, black thin eyebrows, pointy ears, open mouth, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+416
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, asian, blue eyes, looking away, bald, black thin eyebrows, pointy ears, open mouth, pointy nose, small mouth, small chin, swamp background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+417
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), three quarter view, blue eyes, looking away, bald, brown jacket, black thin eyebrows, pointy ears, open mouth, pointy nose, small mouth, small chin, evening forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+418
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), three quarter view, cyan eyes, looking at viewer, short blonde hair, hair bangs, black jacket, black thin eyebrows, pointy ears, open mouth, pointy nose, small mouth, small chin, evening forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+419
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, cyan eyes, looking away, short blonde hair, hair bangs, black jacket, black thin eyebrows, pointy ears, open mouth, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+420
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), three quarter view, blue eyes, looking away, long red hair, black thin eyebrows, pointy ears, open mouth, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+421
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, blue eyes, looking at viewer, long brown hair, black thin eyebrows, pointy ears, open mouth, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+422
+
+score_9, score_8_up, score_7_up, male, portrait, (elf:1.5), front view, green eyes, looking away, (fat:1.5), long brown hair, black thin eyebrows, pointy ears, open mouth, pointy nose, small mouth, small chin, forest background, rim lighting, ArsMovieStill, 80s Fantasy Movie Still
+
+score_6, score_5, score_4, text, bad hand, female, low quality, (cleft chin:1.5), (facial hair:1.5), bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
