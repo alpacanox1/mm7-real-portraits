@@ -5,7 +5,7 @@ Might &amp; Magic VII portraits repainted.
 
 ## Status
 
-NPC: 286/584
+NPC: 308/584
 
 ## Goal
 
@@ -22,7 +22,7 @@ That change is viewed negatively by some. The project aims at repainting the por
 
 ## Overview
 
-![overview](overview_v06.jpg)
+![overview](overview_v07.jpg)
 
 ![ingame](ingame1.jpg)
 
