@@ -17,8 +17,9 @@ That change is viewed negatively by some. The project aims at repainting the por
 1. The original portrait is upscaled up to 500px.
 2. Face restoration algorithm ([GFPGAN](https://github.com/TencentARC/GFPGAN)) is used to recover facial features.
 3. Stable diffusion [model](https://civitai.com/models/372465/pony-realism) in img2img mode is used to repaint the image. CFG 7, denosing 0.4.
-4. Overpaint missing details (optional).
-5. Dim overly-bright pixels which will look wrong after game import (optional).
+---
+5. Overpaint missing details (optional).
+6. Dim overly-bright pixels which will look wrong after game import (optional).
 
 ![example2](example2.jpg)
 
