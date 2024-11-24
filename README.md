@@ -3,8 +3,6 @@ Might &amp; Magic VII portraits repainted.
 
 ![example](example.jpg)
 
-![example](example2.jpg)
-
 ## Status
 
 NPC: 459/584
@@ -21,6 +19,8 @@ That change is viewed negatively by some. The project aims at repainting the por
 3. Stable diffusion [model](https://civitai.com/models/372465/pony-realism) in img2img mode is used to repaint the image. CFG 7, denosing 0.4.
 4. Overpaint missing details (optional).
 5. Dim overly-bright pixels which will look wrong after game import (optional).
+
+![example2](example2.jpg)
 
 ## Overview
 
