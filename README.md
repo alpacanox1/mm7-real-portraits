@@ -20,10 +20,6 @@ That change is viewed negatively by some. The project aims at repainting the por
 
 ![example2](example2.jpg)
 
-Also:
-- Manually overpaint missing details
-- Dim overly-bright pixels which will look wrong after game import
-
 ## Overview
 
 ![overview](overview_v08.jpg)
