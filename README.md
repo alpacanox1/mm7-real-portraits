@@ -22,7 +22,7 @@ That change is viewed negatively by some. The project aims at repainting the por
 
 ## Overview
 
-![overview](overview_v08.jpg)
+![overview](overview_v09.jpg)
 
 ![ingame](ingame1.jpg)
 
