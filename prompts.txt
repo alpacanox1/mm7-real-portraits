@@ -2897,4 +2897,21 @@ score_9, score_8_up, score_7_up, portrait, face close-up, male, (old:1.5), looki
 
 score_6, score_5, score_4, text, bad hand, low quality, female, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
 
+960
+
+score_9, score_8_up, score_7_up, white steps down, black brick walls, empty room ahead, white brick columns, dungeon
+
+score_6, score_5, score_4, (blur:1.5), (depth of field:1.5)
+
+961
+
+score_9, score_8_up, score_7_up, (dragon portrait:1.5), red skin, looking away, yellow eyes, white teeth, yellow nostrils, white horns, yellow gills, black background, ArsMovieStill, 80s Fantasy Movie Still, studio lighting
+
+score_6, score_5, score_4, text, bad hand, low quality, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
+
+962
+
+score_9, score_8_up, score_7_up, portrait, (male skeleton head:1.5), looking away, blue veil, three quarter view, bald, (glowing red eye sockets:1.5), (angry:1.3), golden crown, red fog background, depth of field, ArsMovieStill, 80s Fantasy Movie Still, rim lighting
+
+score_6, score_5, score_4, text, bad hand, low quality, (eyebrows:1.5), (hair:1.5), female, bad quality, worst quality, (drawn, furry, illustration, cartoon, anime, comic:1.5), 3d, cgi, extra fingers, (source_anime, source_cartoon, source_furry, source_western, source_comic, source_pony), deformed teeth
 
